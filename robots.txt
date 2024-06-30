@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://livendalin.github.io/sitemap
+Sitemap: https://livendalin.github.io/app/sitemap
+Sitemap: https://livendalin.github.io/assets/sitemap
+Sitemap: https://livendalin.github.io/css/sitemap
+Sitemap: https://livendalin.github.io/includes/sitemap
+Sitemap: https://livendalin.github.io/item/sitemap
+Sitemap: https://livendalin.github.io/src/sitemap
